@@ -8,21 +8,25 @@ namespace ENTITY
 {
     public class User : Persona
     {
-        public byte[] Foto { get; set; } = null;
+        public byte[] Photo { get; set; } = null;
+        public string Password { get; set; }
+
         public User()
         {
         }
+
         public User(
-                     string cedula, string nombre,
-                    string apellido, string telefono, string sexo,
-                    string correo, DateTime fechaNacimiento, byte[] foto
+                     string id, string firstName,
+                    string lastName, string phone, string gender,
+                    string email, DateTime birthDate, byte[] photo, string password
                     ) : base(
-                               cedula, nombre,
-                              apellido, telefono, sexo,
-                              correo, fechaNacimiento
+                               id, firstName,
+                              lastName, phone, gender,
+                              email, birthDate
                               )
         {
-            Foto = foto;
+            Photo = photo;
+            Password = password;
         }
     }
 }

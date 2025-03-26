@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C7BEF09-4AB4-4FD2-9F86-FD09C33961A9}</ProjectGuid>
+    <ProjectGuid>{7704D277-DF71-4756-9217-2C6CCE4EAC3F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>MIMID</RootNamespace>
     <AssemblyName>MIMID</AssemblyName>
@@ -46,14 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="RegisterUser.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="RegisterUser.Designer.cs">
+      <DependentUpon>RegisterUser.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="RegisterUser.resx">
+      <DependentUpon>RegisterUser.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -78,11 +81,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BLL\BLL.csproj">
-      <Project>{e79d9828-2ccc-4edc-9923-98165ffbd592}</Project>
+      <Project>{17f05828-2280-4dae-9ad0-9295527114b2}</Project>
       <Name>BLL</Name>
     </ProjectReference>
     <ProjectReference Include="..\ENTITY\ENTITY.csproj">
-      <Project>{a1405980-f36e-4c9d-8d3a-bac783636f0e}</Project>
+      <Project>{2e619fd1-37e2-48c2-a5a8-7fc66d94fa82}</Project>
       <Name>ENTITY</Name>
     </ProjectReference>
   </ItemGroup>

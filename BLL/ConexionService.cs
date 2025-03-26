@@ -11,7 +11,7 @@ namespace BILL
     public class ConexionService
     {
 		private ConexionBD ConexionBD = new ConexionBD();
-        public bool Login(Usuario usuario)
+        public bool Login(User usuario)
         {
 			try
 			{
@@ -23,7 +23,7 @@ namespace BILL
                 return false;
 			}
         }
-		public Usuario UsuarioRecuperacion()
+		public User UsuarioRecuperacion()
 		{
 			try
 			{
@@ -52,9 +52,9 @@ namespace BILL
         
         public bool prueba()
         {
-            Usuario usuario = new Usuario();
-            usuario.CorreoElectronico = "root";
-            usuario.Clave = "123456";
+            User usuario = new User();
+            usuario.Email = "root";
+            usuario.Password = "root";
             try
             {
                 return ConexionBD.Login(usuario);

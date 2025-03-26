@@ -1,0 +1,9 @@
+# Configuraciones específicas del entorno
+**/appsettings.json
+**/appsettings.*.json
+
+# Archivos de configuración local
+*.local.json
+
+# Carpeta de configuraciones de Visual Studio
+.vs/

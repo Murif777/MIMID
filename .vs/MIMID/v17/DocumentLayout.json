@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\",
+  "WorkspaceRootPath": "C:\\Users\\farid muriel\\Desktop\\MIMID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA46B638-F16F-42C8-9069-087B2010511A}|DAL\\DAL.csproj|c:\\users\\farid muriel\\source\\repos\\mimid\\dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA46B638-F16F-42C8-9069-087B2010511A}|DAL\\DAL.csproj|solutionrelative:dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|c:\\users\\farid muriel\\source\\repos\\mimid\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|c:\\users\\farid muriel\\source\\repos\\mimid\\entity\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|c:\\users\\farid muriel\\source\\repos\\mimid\\entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\dal\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|c:\\users\\farid muriel\\source\\repos\\mimid\\entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|c:\\users\\farid muriel\\source\\repos\\mimid\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1405980-F36E-4C9D-8D3A-BAC783636F0E}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\bll\\conexionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\conexionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +42,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConexionBD.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\DAL\\ConexionBD.cs",
-              "RelativeDocumentMoniker": "DAL\\ConexionBD.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\DAL\\ConexionBD.cs",
-              "RelativeToolTip": "DAL\\ConexionBD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:42:13.176Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Factura.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Factura.cs",
-              "RelativeDocumentMoniker": "ENTITY\\Factura.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Factura.cs",
-              "RelativeToolTip": "ENTITY\\Factura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:08:25.7Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Client.cs",
-              "RelativeDocumentMoniker": "ENTITY\\Client.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Client.cs",
-              "RelativeToolTip": "ENTITY\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T05:39:08.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Product.cs",
-              "RelativeDocumentMoniker": "ENTITY\\Product.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Product.cs",
-              "RelativeToolTip": "ENTITY\\Product.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwCoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T05:29:12.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Persona.cs",
-              "RelativeDocumentMoniker": "ENTITY\\Persona.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\Persona.cs",
-              "RelativeToolTip": "ENTITY\\Persona.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T05:29:43.087Z",
+              "Title": "appsettings.Example.json",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\appsettings.Example.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.Example.json",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\appsettings.Example.json",
+              "RelativeToolTip": "DAL\\appsettings.Example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T03:35:54.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\User.cs",
-              "RelativeDocumentMoniker": "ENTITY\\User.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\source\\repos\\MIMID\\ENTITY\\User.cs",
-              "RelativeToolTip": "ENTITY\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAdAAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAGkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T05:29:28.119Z",
+              "WhenOpened": "2025-03-26T03:11:17.414Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\UserService.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\UserService.cs",
+              "RelativeToolTip": "BLL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:22:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\Program.cs",
+              "RelativeDocumentMoniker": "MIMID\\Program.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\Program.cs",
+              "RelativeToolTip": "MIMID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:42:13.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionService.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ConexionService.cs",
+              "RelativeDocumentMoniker": "BLL\\ConexionService.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ConexionService.cs",
+              "RelativeToolTip": "BLL\\ConexionService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA1wCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:28:42.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "DAL\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ConexionBD.cs",
+              "RelativeToolTip": "DAL\\ConexionBD.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:09:05.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "MIMID\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\RegisterUser.cs",
+              "RelativeToolTip": "MIMID\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:03:37.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUser.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "MIMID\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\RegisterUser.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MIMID\\RegisterUser.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:26:03.322Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

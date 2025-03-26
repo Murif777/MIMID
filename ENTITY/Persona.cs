@@ -7,41 +7,42 @@ using System.Threading.Tasks;
 namespace ENTITY
 {
     public class Persona
-    { 
-        public string Cedula { get; set; }
-        public string Nombre { get; set; }
-        public string Apellido { get; set; }
-        public string Telefono { get; set; }
-        public string Sexo { get; set; }
-        public DateTime FechaNacimiento { get; set; }
-        public string Correo { get; set; }
+    {
+        public string Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Phone { get; set; }
+        public string Gender { get; set; }
+        public DateTime BirthDate { get; set; }
+        public string Email { get; set; }
         public Persona() { }
         public Persona(
-            string cedula,
-            string nombre,
-            string apellido,
-            string telefono,
-            string sexo,
-            string correo,
-            DateTime fechaNacimiento)
+            string id,
+            string firstName,
+            string lastName,
+            string phone,
+            string gender,
+            string email,
+            DateTime birthDate)
         {
-            Cedula = cedula;
-            Nombre = nombre;
-            Apellido = apellido;
-            Telefono = telefono;
-            Sexo = sexo;
-            Correo = correo;
-            FechaNacimiento = fechaNacimiento;
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            Phone = phone;
+            Gender = gender;
+            Email = email;
+            BirthDate = birthDate;
         }
         public Persona(
-            string cedula,
-            string nombre,
-            string apellido,
-            string correo)
+            string id,
+            string firstName,
+            string lastName,
+            string email)
         {
-            Cedula = cedula;
-            Nombre = nombre;
-            Apellido = apellido;
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            Email = email;
         }
     }
 }

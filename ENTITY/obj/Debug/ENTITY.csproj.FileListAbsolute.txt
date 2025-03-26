@@ -1,0 +1,6 @@
+C:\Users\farid muriel\Desktop\MIMID\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\farid muriel\Desktop\MIMID\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\farid muriel\Desktop\MIMID\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\farid muriel\Desktop\MIMID\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\farid muriel\Desktop\MIMID\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\farid muriel\Desktop\MIMID\ENTITY\obj\Debug\ENTITY.pdb
