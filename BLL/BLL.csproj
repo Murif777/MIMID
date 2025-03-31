@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ConexionService.cs" />
     <Compile Include="ICrud.cs" />
+    <Compile Include="ProductoService.cs" />
     <Compile Include="UserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

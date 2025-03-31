@@ -12,38 +12,38 @@ namespace BILL
     {
         private UserRepository userRepository = new UserRepository(); // Instancia de UserRepository
 
-        public string Registrar(User user)
+        public string Register(User user)
         {
             try
             {
-                return userRepository.GuardarUsuarioBD(user);
+                return userRepository.SaveUser(user);
             }
             catch (Exception ex)
             {
-                return "Error al registrar: " + ex.Message;
+                return "Error registering user: " + ex.Message;
             }
         }
 
-        public User BuscarPorId(string id)
+        public User GetUserById(string id)
         {
-            // Llamar al método BuscarPorId definido en UserRepository
-            return userRepository.BuscarPorId(id);
+            // Llamar al método GetUserById definido en UserRepository
+            return userRepository.GetUserById(id);
         }
 
-        public string EliminarUsuario(string id)
+        public string DeleteUser(string id)
         {
-            return userRepository.EliminarUsuarioBD(id);
+            return userRepository.DeleteUser(id);
         }
 
-        public string ActualizarUsuario(User user)
+        public string UpdateUser(User user)
         {
             try
             {
-                return userRepository.ActualizarUsuarioBD(user);
+                return userRepository.UpdateUser(user);
             }
             catch (Exception ex)
             {
-                return "Error al actualizar: " + ex.Message;
+                return "Error updating user: " + ex.Message;
             }
         }
     }

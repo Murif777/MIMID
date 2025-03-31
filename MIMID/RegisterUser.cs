@@ -118,7 +118,7 @@ namespace MIMID
             try
             {
                 conexionService.Login(user);
-                string resultadoUsuario = userService.Registrar(user);
+                string resultadoUsuario = userService.Register(user);
                 MessageBox.Show(resultadoUsuario);
                 if (resultadoUsuario.IndexOf("error", StringComparison.OrdinalIgnoreCase) >= 0)
                 {

@@ -9,6 +9,6 @@ namespace BILL
 {
     public interface ICrud<T>
     {
-       string Registrar(T entity);
+       string Register(T entity);
     }
 }

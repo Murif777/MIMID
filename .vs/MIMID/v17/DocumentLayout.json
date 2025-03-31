@@ -3,36 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\farid muriel\\Desktop\\MIMID\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\mimid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\bll\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\bll\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\addproduct.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\addproduct.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\addproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\addproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\bll\\conexionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\conexionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\dal\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2E619FD1-37E2-48C2-A5A8-7FC66D94FA82}|ENTITY\\ENTITY.csproj|c:\\users\\farid muriel\\desktop\\mimid\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E619FD1-37E2-48C2-A5A8-7FC66D94FA82}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\bll\\conexionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\conexionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|c:\\users\\farid muriel\\desktop\\mimid\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F05828-2280-4DAE-9AD0-9295527114B2}|BLL\\BLL.csproj|solutionrelative:bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|c:\\users\\farid muriel\\desktop\\mimid\\mimid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7704D277-DF71-4756-9217-2C6CCE4EAC3F}|MIMID\\MIMID.csproj|solutionrelative:mimid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|C:\\Users\\farid muriel\\Desktop\\MIMID\\dal\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6376AE2F-A813-4C10-968F-BD880E351D11}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,58 +74,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Example.json",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\appsettings.Example.json",
-              "RelativeDocumentMoniker": "DAL\\appsettings.Example.json",
-              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\appsettings.Example.json",
-              "RelativeToolTip": "DAL\\appsettings.Example.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-26T03:35:54.983Z",
+              "DocumentIndex": 7,
+              "Title": "AddProduct.resx",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.resx",
+              "RelativeDocumentMoniker": "MIMID\\AddProduct.resx",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.resx",
+              "RelativeToolTip": "MIMID\\AddProduct.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-31T03:18:20.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "AddProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.Designer.cs",
+              "RelativeDocumentMoniker": "MIMID\\AddProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.Designer.cs",
+              "RelativeToolTip": "MIMID\\AddProduct.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:18:17.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ProductoService.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ProductoService.cs",
+              "RelativeToolTip": "BLL\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:59:02.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.cs",
+              "RelativeDocumentMoniker": "MIMID\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.cs",
+              "RelativeToolTip": "MIMID\\AddProduct.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:07:22.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\UserRepository.cs",
               "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
               "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\UserRepository.cs",
               "RelativeToolTip": "DAL\\UserRepository.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAGkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T03:11:17.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\UserService.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\UserService.cs",
-              "RelativeToolTip": "BLL\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ProductRepository.cs",
+              "RelativeToolTip": "DAL\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:22:18.612Z",
+              "WhenOpened": "2025-03-31T02:51:37.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ICrud.cs",
+              "RelativeDocumentMoniker": "BLL\\ICrud.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ICrud.cs",
+              "RelativeToolTip": "BLL\\ICrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:56:41.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\Program.cs",
               "RelativeDocumentMoniker": "MIMID\\Program.cs",
@@ -106,46 +181,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConexionService.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ConexionService.cs",
-              "RelativeDocumentMoniker": "BLL\\ConexionService.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ConexionService.cs",
-              "RelativeToolTip": "BLL\\ConexionService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA1wCoAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.cs",
+              "RelativeDocumentMoniker": "MIMID\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\AddProduct.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MIMID\\AddProduct.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:28:42.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T02:02:13.329Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConexionBD.cs",
-              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ConexionBD.cs",
-              "RelativeDocumentMoniker": "DAL\\ConexionBD.cs",
-              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ConexionBD.cs",
-              "RelativeToolTip": "DAL\\ConexionBD.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T00:09:05.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "RegisterUser.cs",
               "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\RegisterUser.cs",
               "RelativeDocumentMoniker": "MIMID\\RegisterUser.cs",
               "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\RegisterUser.cs",
               "RelativeToolTip": "MIMID\\RegisterUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T00:03:37.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\UserService.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\UserService.cs",
+              "RelativeToolTip": "BLL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:22:18.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConexionService.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ConexionService.cs",
+              "RelativeDocumentMoniker": "BLL\\ConexionService.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\BLL\\ConexionService.cs",
+              "RelativeToolTip": "BLL\\ConexionService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:28:42.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RegisterUser.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\MIMID\\RegisterUser.cs",
               "RelativeDocumentMoniker": "MIMID\\RegisterUser.cs",
@@ -154,6 +241,65 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T01:26:03.322Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "DAL\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\ConexionBD.cs",
+              "RelativeToolTip": "DAL\\ConexionBD.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:09:05.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Example.json",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\appsettings.Example.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.Example.json",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\DAL\\appsettings.Example.json",
+              "RelativeToolTip": "DAL\\appsettings.Example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T03:35:54.983Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "59e69156-9bdf-46a1-afe4-58604028cf7b",
+        "Display": 1,
+        "X": 540,
+        "Y": 61,
+        "Width": 1404,
+        "Height": 946,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\farid muriel\\Desktop\\MIMID\\ENTITY\\Product.cs",
+              "RelativeDocumentMoniker": "ENTITY\\Product.cs",
+              "ToolTip": "C:\\Users\\farid muriel\\Desktop\\MIMID\\ENTITY\\Product.cs",
+              "RelativeToolTip": "ENTITY\\Product.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:54:35.147Z",
+              "EditorCaption": ""
             }
           ]
         }

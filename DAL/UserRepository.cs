@@ -13,7 +13,7 @@ namespace DAL
 {
     public class UserRepository : ConexionBD
     {
-        public string GuardarUsuarioBD(User user)
+        public string SaveUser(User user)
         {
             string sql = "INSERT INTO Usuarios(Id, FirstName, LastName, Phone, Gender, BirthDate, Email, Photo, Password) " +
                   "VALUES (@Id, @FirstName, @LastName, @Phone, @Gender, @BirthDate, @Email, @Photo, @Password)";
@@ -34,16 +34,16 @@ namespace DAL
                 var res = comando.ExecuteNonQuery();
                 if (res == 0)
                 {
-                    return "Usuario no guardado";
+                    return "User not saved";
                 }
                 if (res != 0)
                 {
-                    return $"Usuario registrado";
+                    return "User registered";
                 }
             }
             catch (MySqlException ex)
             {
-                return "Error al guardar " + ex.Message;
+                return "Error saving user: " + ex.Message;
             }
             finally
             {
@@ -52,7 +52,7 @@ namespace DAL
             return null;
         }
 
-        public User BuscarPorId(string id)
+        public User GetUserById(string id)
         {
             string sql = "SELECT * FROM Usuarios WHERE Id = @Id";
 
@@ -77,7 +77,7 @@ namespace DAL
                 }
                 catch (MySqlException ex)
                 {
-                    Console.WriteLine("Error al buscar el usuario por Id: " + ex.Message);
+                    Console.WriteLine("Error getting user by Id: " + ex.Message);
                     return null;
                 }
             }
@@ -103,7 +103,7 @@ namespace DAL
             return user;
         }
 
-        public string EliminarUsuarioBD(string id)
+        public string DeleteUser(string id)
         {
             using (var conexionBd = conexionBD())
             {
@@ -111,26 +111,26 @@ namespace DAL
                 {
                     try
                     {
-                        string sqlEliminarUsuario = "DELETE FROM Usuarios WHERE Id = @Id";
-                        using (MySqlCommand comandoUsuario = new MySqlCommand(sqlEliminarUsuario, conexionBd, transaction))
+                        string sqlDeleteUser = "DELETE FROM Usuarios WHERE Id = @Id";
+                        using (MySqlCommand comandoUsuario = new MySqlCommand(sqlDeleteUser, conexionBd, transaction))
                         {
                             comandoUsuario.Parameters.AddWithValue("@Id", id);
                             comandoUsuario.ExecuteNonQuery();
                         }
 
                         transaction.Commit();
-                        return "Usuario eliminado exitosamente";
+                        return "User deleted successfully";
                     }
                     catch (MySqlException ex)
                     {
                         transaction.Rollback();
-                        return "Error al intentar eliminar el usuario: " + ex.Message;
+                        return "Error deleting user: " + ex.Message;
                     }
                 }
             }
         }
 
-        public string ActualizarUsuarioBD(User user)
+        public string UpdateUser(User user)
         {
             string sql = "UPDATE Usuarios SET FirstName=@FirstName, LastName=@LastName, " +
                          "Phone=@Phone, Gender=@Gender, BirthDate=@BirthDate, " +
@@ -154,13 +154,13 @@ namespace DAL
                 int res = comando.ExecuteNonQuery();
                 if (res == 0)
                 {
-                    return "Usuario no actualizado";
+                    return "User not updated";
                 }
-                return "Usuario actualizado exitosamente";
+                return "User updated successfully";
             }
             catch (MySqlException ex)
             {
-                return "Error al actualizar: " + ex.Message;
+                return "Error updating user: " + ex.Message;
             }
             finally
             {

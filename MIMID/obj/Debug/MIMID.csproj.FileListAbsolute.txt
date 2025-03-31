@@ -69,3 +69,4 @@ C:\Users\farid muriel\Desktop\MIMID\MIMID\bin\Debug\Microsoft.Extensions.FileSys
 C:\Users\farid muriel\Desktop\MIMID\MIMID\bin\Debug\System.Text.Encodings.Web.xml
 C:\Users\farid muriel\Desktop\MIMID\MIMID\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\farid muriel\Desktop\MIMID\MIMID\bin\Debug\appsettings.Example.json
+C:\Users\farid muriel\Desktop\MIMID\MIMID\obj\Debug\MIMID.AddProduct.resources
